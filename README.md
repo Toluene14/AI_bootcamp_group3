@@ -6,5 +6,4 @@ GROUP 3
 * Barakat
 
 DATA:
-train.c
-wqwawq
+train.csv
