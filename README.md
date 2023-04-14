@@ -7,3 +7,5 @@ GROUP 3
 
 DATA:
 train.csv
+
+https://toluene14-ai-bootcamp-group3-text-classification-ntcg2d.streamlit.app/
